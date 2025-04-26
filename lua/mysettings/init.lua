@@ -1,0 +1,5 @@
+require("mysettings.nvim-tree")
+require("mysettings.packer")
+require("mysettings.remap")
+require("mysettings.set")
+require("mysettings.cody").setup()
