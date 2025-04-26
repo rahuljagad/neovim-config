@@ -1,2 +1,2 @@
-# neovim-config
+# nvim
 My NeoVim Configuration for cross machines
